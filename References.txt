@@ -1,0 +1,6 @@
+﻿[1]	M. Babazadeh, "Edge analytics for anomaly detection in water networks by an Arduino101-LoRa based WSN," ISA transactions, vol. 92, pp. 273-285, 2019.
+[2]	M. Babazadeh, "LoRa-based anomaly detection platform: Center and sensor-side," IEEE Sensors Journal, vol. 20, pp. 6677-6684, 2020.
+[3]	M. Babazadeh, "Toward an Extreme Low-power, Edge-based LoRa Node for Monitoring/Anomaly Detection," Adhoc & Sensor Wireless Networks, vol. 54, 2022.
+[4]	M. Babazadeh and K. Karimi, "Development of an Arduino101-LoRa based wind speed estimator," Measurement, vol. 146, pp. 241-253, 2019.
+[5]     M. Babazadeh, S. Kartakis and J. A. McCann, "Highly-distributed sensor processing using IoT for critical infrastructure monitoring," 2017 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Kuala Lumpur, Malaysia, 2017, pp. 1065-1074.
+
