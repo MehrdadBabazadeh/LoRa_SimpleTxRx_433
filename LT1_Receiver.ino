@@ -4,15 +4,13 @@
 #include <SPI.h>
 #include <LoRa.h>
 
-HardwareSerial RPI_1(PB7, PB6);
-HardwareSerial Serial1(USART1);
+HardwareSerial Serial1(PB7, PB6);
 
 const int CS_LoRa = PA8;     // Pin 38 - LoRa radio chip select
 const int irqPin = PA9;      // change for your board; must be a hardware interrupt pin
 const int resetPin = PA10;   // Pin 61 - LoRa radio reset; This is 9 in Library .h file
 
 void setup() {
-  RPI_1.begin(115200);
   Serial1.begin(115200);
   while (!Serial);
   
